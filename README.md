@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="images/profile-banner-gt.png" alt="John Giotis – Software Engineer" style="width:100%; max-width:900px;" />
-</p>
+</p> -->
 
 # 💫 About Me
 
